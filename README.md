@@ -2,7 +2,9 @@
 
 <p>14 декабря 2024</p>
 <h2>Таски</h2>
-<a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Базированная_база">Секретные записки</a> (web)<br>
+<a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Секретные_записки">Секретные записки</a> (web)<br>
+<a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Правила">Правила</a> (web)<br>
+<a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Fuzz_me">Fuzz me</a> (web)<br>
 
 <h2>Команда разработки заданий</h2>
 <a href="http://t.me/eianisimov">Анисимов Егор</a><br>
