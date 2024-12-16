@@ -1,6 +1,6 @@
 <h1>LyceumCTF Winter 2024</h1>
 
-<p>10 мая 2024</p>
+<p>14 декабря 2024</p>
 <h2>Таски</h2>
 <a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Базированная_база">Секретные записки</a> (web)<br>
 
