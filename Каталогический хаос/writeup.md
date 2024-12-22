@@ -9,6 +9,7 @@
 <h2>Решение</h2>
 <span>Достаточно вручную обойти все каталоги и собрать по индексам флаг, чтобы ускорить процесс, можно написать простой алгоритм:</span><br><br>
 
+<pre lang="python">
 <code>
 flag = [''] * 100
 alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789{}_"
@@ -21,4 +22,4 @@ for i in alphabet:
             flag[int(line)] = i
 print(''.join(flag))
 </code>
-
+</pre>
