@@ -5,6 +5,10 @@
 <a href="https://github.com/PolyCTF-DEV/LyceumCTF-Winter-2024/tree/main/Секретные_записки">Секретные записки</a> (web)<br>
 <a href="https://github.com/PolyCTF-DEV/LyceumCTF-Winter-2024/tree/main/Правила">Правила</a> (web)<br>
 <a href="https://github.com/PolyCTF-DEV/LyceumCTF-Winter-2024/tree/main/Fuzz_me">Fuzz me</a> (web)<br>
+<a href="https://github.com/PolyCTF-DEV/LyceumCTF-Winter-2024/tree/main/BadUSB (junior)">BadUSB (junior)</a> (forensics)<br>
+<a href="https://github.com/PolyCTF-DEV/LyceumCTF-Winter-2024/tree/main/Веб-сервер">Веб-сервер</a> (forensics)<br>
+<a href="https://github.com/PolyCTF-DEV/LyceumCTF-Winter-2024/tree/main/Простой API-сервер">Простой API-сервер</a> (forensics)<br>
+<a href="https://github.com/PolyCTF-DEV/LyceumCTF-Winter-2024/tree/main/Noxor">Noxor</a> (crypto)<br>
 
 <h2>Команда разработки заданий</h2>
 <a href="http://t.me/eianisimov">Анисимов Егор</a><br>
